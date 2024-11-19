@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm a Software Engineering student, tech enthusiatic and hardworker. I'm not working as developer, but I like to create things and, sometimes, I publish it.
+
+- 🔭 I’m currently working as PS Consultant
+- 🌱 I’m currently learning C++ & Golang (and English, that is a bit hard for me)
+
 <!--
 **Vachir00/Vachir00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
